@@ -1,6 +1,7 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ChriskenM<br>- I’m interested in ...data science, & cyber security <br>-  I’m currently learning ...ML, data science and some cyber security <br>-  I’m looking forward to master data science ...<br>- 📫 How to reach me ...chriskenmutuma0727@gmail.com<br><br>- Proficient fullstack dev with a focus on backend
-
+- 👋 Hi, I’m @ChriskenM<br>
+- Proficient fullstack dev with a focus on backend<br>
+- I’m interested in ...data science, & cyber security <br>-  I’m currently learning ...ML, data science and some cyber security <br>-  I’m looking forward to master data science ...<br>- 📫 How to reach me ...chriskenmutuma0727@gmail.com<br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mutuma Chris) 
@@ -12,7 +13,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ChriskenM&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChriskenM&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ChriskenM&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
