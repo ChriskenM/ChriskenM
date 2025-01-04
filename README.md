@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @ChriskenM<br>
+- Professional Data Analyst<br>
 - Proficient fullstack dev with a focus on backend<br>
-- I’m interested in ...data science, & cyber security <br>-  I’m currently learning ...ML, data science and some cyber security <br>-  I’m looking forward to master data science ...<br>- 📫 How to reach me ...chriskenmutuma0727@gmail.com<br>
-
+- I’m interested in ...data science,-  I’m looking forward to master data science ...
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mutuma Chris) 
 
